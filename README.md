@@ -1,5 +1,3 @@
-=== README.md ===
-
 # README
 
 Members of the [OASIS Open Command and Control (OpenC2) TC](https://www.oasis-open.org/committees/openc2/) create and manage technical content in this TC GitHub repository (https://github.com/oasis-tcs/openc2-transf-http/) as part of the TC's chartered work (the program of work and deliverables described in its [charter](https://www.oasis-open.org/committees/openc2/charter.php).
