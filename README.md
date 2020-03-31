@@ -10,6 +10,8 @@ This GitHub repository supports development of and change tracking for the OpenC
 
 This repository is designed to support TC members' work on a formal specification that describes the use of HTTP as a transfer mechanism for OpenC2 messages. The provisional work product title is "Specification for Transfer of OpenC2 Messages via HTTP", edited by David Lemire (G2) and Duncan Sparrell (sFractal Consulting). The specification explains the transfer of OpenC2 command and response messages using HTTP. The authoritative format for the specification is Markdown. 
 
+The new specification will be developed using the existing HTTPS Transfer Specification, v1.0, CS01, as a starting point. The intent is to apply lessons learned from the January 2020 Plug Fest / Hackathon in the development of the new specification.
+
 ## Contributions
 
 As stated in this repository's [CONTRIBUTING](https://github.com/oasis-tcs/openc2-transf-http/blob/master/CONTRIBUTING.md) file, contributors to this repository must be Members of the OASIS OpenC2 TC for any substantive contributions or change requests.  Anyone wishing to contribute to this GitHub project and [participate](https://www.oasis-open.org/join/participation-instructions) in the TC's technical activity is invited to join as an OASIS TC Member. Public feedback is also accepted, subject to the terms of the [OASIS Feedback License](https://www.oasis-open.org/policies-guidelines/ipr#appendixa). 
