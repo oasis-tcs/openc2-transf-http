@@ -6,7 +6,7 @@ OASIS TC GitHub repositories, as described in [GitHub Repositories for OASIS TC 
 
 # >>> Work Product Suspended <<<
 
-**Summary:** The OpenC2 TC has suspended work on this transfer specification, as its purpose has been accomplished with the approval of v1.1 of the _[HTTPS Transfer Specification](https://github.com/oasis-tcs/openc2-impl-https)_.  (The ballot for the v1.1 HTTPS specification closes on 30 November 2021)
+**Summary:** The OpenC2 TC has suspended work on this transfer specification, as its purpose has been accomplished with the approval of v1.1 of the _[HTTPS Transfer Specification](https://github.com/oasis-tcs/openc2-impl-https)_ as an OASIS Committee Specification.  This repository is therefore being archived.
 
 **Details:**  The _HTTPS Transfer Spec, v1.0_ is one of the TC's initial trio of specifications, and only addressed the use of HTTP over TLS (i.e., secure communications). The use of TLS depends on having compatible certificates and certificate chains at the endpoints of the TLS connection, which often presents a challenge in a testing environment such as a plugfest.  After having TLS issues at a plugfest in January 2020, the TC initiated this _HTTP Transfer Spec_ to address non-secure testing situations. However, this specification was never actively developed.  The v1.1 update to the HTTPS Transfer Specification addresses both the secure and non-secure use of HTTP through conformance targets, negating the need for an independent _HTTP Transfer Specification_, and the TC agreed at its November 2021 meeting to officially suspend this work product.
 
